@@ -25,11 +25,7 @@ Designed as an **AI Engineering Portfolio piece**, it demonstrates clean archite
 *(You can replace these placeholder images with actual screenshots from your emulator/device)*
 
 <p align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=Splash+Screen" width="200" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/250x500.png?text=Empty+Chat+State" width="200" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/250x500.png?text=Active+Chat+UI" width="200" />
+  <img src="images/screenshoot.jpg" width="250" />
 </p>
 
 ## ⚙️ Core Architecture
@@ -134,5 +130,5 @@ Because the app runs inside an Emulator or physical phone, it cannot simply acce
 * **AI Integration**: Official `openai` Python SDK (Async Client)
 
 ## 👤 Author 
-**Rahma** - AI Engineer & Developer
+**Surahma Jaya** - AI Engineer & Developer
 *Building intelligent, real-world systems.*
