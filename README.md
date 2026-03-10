@@ -22,8 +22,6 @@ Designed as an **AI Engineering Portfolio piece**, it demonstrates clean archite
 
 ## 📸 Interface Preview
 
-*(You can replace these placeholder images with actual screenshots from your emulator/device)*
-
 <p align="center">
   <img src="images/screenshoot.jpg" width="250" />
 </p>
